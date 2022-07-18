@@ -26,8 +26,10 @@
 </p>
 <p align="left"> <a href="https://twitter.com/cerealchillz" target="blank"><img src="https://img.shields.io/twitter/follow/cerealchillz?logo=twitter&style=for-the-badge" alt="cerealchillz" /></a> </p>
 
-- 🤖My discord [CerealChiller#7515](CerealChiller#7515)
+- 🤖My discord CerealChiller#7515
 
 - 📧You can contact me through my email **lavjhn@gmail.com**
 
 - 🎨[My deviantart profile](https://www.deviantart.com/cerealchillz)
+
+- 🗿[My reddit](https://www.reddit.com/user/CerealChillz)
