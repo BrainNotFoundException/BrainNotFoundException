@@ -30,8 +30,6 @@
 
 - 🤖My discord CerealChiller#7515
 
-- 📧You can contact me through my email **lavjhn@gmail.com**
-
 - 🎨[My deviantart profile](https://www.deviantart.com/cerealchillz)
 
 - 🗿[My reddit](https://www.reddit.com/user/CerealChillz)
