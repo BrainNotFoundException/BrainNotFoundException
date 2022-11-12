@@ -34,4 +34,4 @@
 
 - 🗿[My reddit](https://www.reddit.com/user/CerealChillz)
 
-- ⌨️[My monkeytype](https://monkeytype.com/profile/wDZJepIFlRU4gXrL36cFlQCGGDI3)
+- ⌨️[My monkeytype](https://monkeytype.com/profile/CerealChiller)
