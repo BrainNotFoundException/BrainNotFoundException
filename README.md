@@ -28,7 +28,7 @@
 
 - 💻[My hackerrank](https://www.hackerrank.com/lavjhn)
 
-- 🤖My discord CerealChiller#7515
+- 🤖[My discord](https://discord.com/users/790953108905132064)
 
 - 🎨[My deviantart profile](https://www.deviantart.com/cerealchillz)
 
