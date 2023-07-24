@@ -32,6 +32,4 @@
 
 - 🎨[My deviantart profile](https://www.deviantart.com/cerealchillz)
 
-- 🗿[My reddit](https://www.reddit.com/user/CerealChillz)
-
 - ⌨️[My monkeytype](https://monkeytype.com/profile/CerealChiller)
