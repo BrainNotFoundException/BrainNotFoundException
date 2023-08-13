@@ -24,7 +24,7 @@
 
 - 💻[My hackerrank](https://www.hackerrank.com/lavjhn)
 
-- 🤖[My discord profile](https://discord.com/users/790953108905132064)
+- 🤖[My discord profile](https://discord.com/users/501968584843460619)
 
 - 🎨[My deviantart profile](https://www.deviantart.com/cerealchillz)
 
