@@ -16,16 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brainnotfoundexception&show_icons=true&theme=radical&locale=en" alt="brainnotfoundexception" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brainnotfoundexception&theme=radical" alt="brainnotfoundexception" /></p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/cerealchillz" target="blank"><img src="https://img.shields.io/twitter/follow/cerealchillz?logo=twitter&style=for-the-badge" alt="cerealchillz" /></a> </p>
-
-- 💻[My hackerrank](https://www.hackerrank.com/lavjhn)
-
-- 🤖[My discord profile](https://discord.com/users/501968584843460619)
-
-- 🎨[My deviantart profile](https://www.deviantart.com/cerealchillz)
-
-- ⌨️[My monkeytype](https://monkeytype.com/profile/CerealChiller)
